@@ -1,0 +1,8 @@
+.idea/
+.evosuite/
+Tutorial_Maven.iml
+coverage-error.log
+target/
+evosuite-report/
+*_ESTest.java
+*_ESTest_scaffolding.java
